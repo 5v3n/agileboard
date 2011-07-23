@@ -30,4 +30,5 @@ gem 'sqlite3'
 #   gem 'webrat'
 # end
 
-gem 'haml'
+gem "haml"
+gem "compass", ">= 0.11.5"
